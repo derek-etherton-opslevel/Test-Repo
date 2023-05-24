@@ -1,1 +1,1 @@
-Hooray a new README!
+Hooray a README!
