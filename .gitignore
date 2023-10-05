@@ -11,3 +11,5 @@ docker/*
 !docker/*.cnf
 !docker/*.sh
 !docker/Dockerfile.test
+
+datadog
