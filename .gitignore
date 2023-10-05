@@ -1,0 +1,13 @@
+/node_modules
+
+yarn/*
+
+.DS_Store
+
+.env.*
+.env
+
+docker/*
+!docker/*.cnf
+!docker/*.sh
+!docker/Dockerfile.test
