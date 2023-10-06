@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM golang:1.21
+FROM golang:1.20
 WORKDIR /src
 COPY <<EOF ./main.go
 package main
