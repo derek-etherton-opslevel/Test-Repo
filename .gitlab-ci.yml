@@ -4,18 +4,10 @@ default:
 
 lint-frontend:
   stage: test
-  <<: *frontend-test-container
-  extends:
-    - .only-merge-requests
-    - .only-frontend-changes
   script:
     - yarn lint
 
 lint-backend:
   stage: test
-  <<: *backend-test-container
-  extends:
-    - .only-merge-requests
-    - .only-backend-changes
   script:
     - bundle exec rubocop --force-exclusion
