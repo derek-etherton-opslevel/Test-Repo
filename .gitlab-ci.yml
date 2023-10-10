@@ -2,11 +2,6 @@ default:
   tags:
     - kubernetes
 
-lint-frontend:
-  stage: test
-  script:
-    - yarn lint
-
 lint-backend:
   stage: test
   script:
