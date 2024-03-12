@@ -10,7 +10,7 @@
     paths:
       /users:
         get:
-          summary: Returns a list of user hehe.
+          summary: Returns a list of user haha.
           description: Optional extended description in Markdown.
           produces:
             - application/json
