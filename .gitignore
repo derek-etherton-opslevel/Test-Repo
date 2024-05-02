@@ -13,3 +13,5 @@ docker/*
 !docker/Dockerfile.test
 
 datadog
+
+package-lock.json
