@@ -13,3 +13,5 @@ docker/*
 !docker/Dockerfile.test
 
 datadog
+
+test.json
