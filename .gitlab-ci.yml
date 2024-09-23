@@ -1,8 +1,0 @@
-default:
-  tags:
-    - kubernetes
-
-lint-backend:
-  stage: test
-  script:
-    - bundle exec rubocop --force-exclusion
