@@ -2,18 +2,5 @@
 version: 1
 service:
   name: TEST REPO
-  lifecycle:
   tier: tier_1
-  product:
   owner: duck_man
-  system:
-  language:
-  framework:
-  description:
-  aliases:
-  tags:
-  repositories:
-  tools:
-  dependencies:
-  alert_sources:
-  properties:
