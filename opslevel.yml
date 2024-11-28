@@ -1,7 +1,7 @@
 ---
 version: 1
 component:
-  name: Yaml Component
+  name: Yaml App
   lifecycle:
   tier:
   product:
