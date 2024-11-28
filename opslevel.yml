@@ -1,7 +1,7 @@
 ---
 version: 1
 service:
-  name: Test Repo Service
+  name: Yaml Tester
   lifecycle:
   tier:
   product:
