@@ -1,11 +1,11 @@
 ---
 version: 1
 component:
-  name: Yaml App
+  name: Yaml Service
   lifecycle:
   tier:
   product:
-  type: app
+  type: service
   owner: team_d
   system:
   language: javascript
