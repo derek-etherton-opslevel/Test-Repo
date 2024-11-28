@@ -1,6 +1,26 @@
 ---
 version: 1
 service:
-  name: TEST REPO
-  tier: tier_1
-  owner: duck_man
+  name: Test Repo Service
+  lifecycle:
+  tier:
+  product:
+  owner: team_d
+  system:
+  language: javascript
+  framework:
+  description:
+  aliases:
+  - Test-Repo
+  tags:
+  repositories:
+  tools:
+  dependencies:
+  alert_sources:
+  properties:
+    a1:
+    a2:
+    b_w:
+    beginner_button_onclick_alert_2_click_me_button:
+    s1:
+    s2:
