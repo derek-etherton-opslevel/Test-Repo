@@ -1,6 +1,6 @@
 ---
 version: 1
-service:
+component:
   name: Yaml Tester
   lifecycle:
   tier:
@@ -17,7 +17,6 @@ service:
   tools:
   dependencies:
   alert_sources:
-  type: app
   properties:
     s1: true
     s2: Nice
