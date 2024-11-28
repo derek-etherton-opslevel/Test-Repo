@@ -1,7 +1,7 @@
 ---
 version: 1
 component:
-  name: Yaml Tester
+  name: Yaml Component
   lifecycle:
   tier:
   product:
