@@ -17,7 +17,6 @@ service:
   tools:
   dependencies:
   alert_sources:
-  type: app
   properties:
     a1:
     a2:
