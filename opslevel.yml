@@ -18,5 +18,5 @@ service:
   dependencies:
   alert_sources:
   properties:
-    s1: Nice
-    s2:
+    s1: true
+    s2: Nice
