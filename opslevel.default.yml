@@ -1,6 +1,6 @@
 ---
 version: 1
-component:
+service:
   tier: tier_2
   description: My default description
   properties:
