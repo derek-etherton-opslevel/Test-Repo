@@ -1,7 +1,7 @@
 ---
 version: 1
 service:
-  name: Yaml Service
+  name: Yabadaba
   owner: team_d
   language: javascript
   aliases:
