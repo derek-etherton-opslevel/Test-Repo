@@ -5,7 +5,7 @@ component:
   lifecycle:
   tier:
   product:
-  type: service
+  type: app
   owner: team_d
   system:
   language: javascript
