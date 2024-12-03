@@ -1,7 +1,7 @@
 ---
 version: 1
 service:
-  name: YOML repo
+  name: YAML repo
   lifecycle:
   tier: tier_1
   product:
