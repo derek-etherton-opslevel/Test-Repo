@@ -1,4 +1,4 @@
 version: 1
-component:
+service:
   tier: tier_3
   description: yeeeeehaw
