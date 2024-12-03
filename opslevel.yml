@@ -1,10 +1,9 @@
 ---
 version: 1
-component:
-  name: YUML repo
+service:
+  name: YOML repo
   lifecycle:
   tier: tier_1
-  type: app
   product:
   owner:
   system:
