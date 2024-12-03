@@ -2,22 +2,11 @@
 version: 1
 component:
   name: Yaml Service
-  lifecycle:
-  tier:
-  product:
   type: app
   owner: team_d
-  system:
   language: javascript
-  framework:
-  description:
   aliases:
   - Test-Repo
-  tags:
-  repositories:
-  tools:
-  dependencies:
-  alert_sources:
   properties:
     s1: true
     s2: Nice
