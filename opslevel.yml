@@ -1,9 +1,9 @@
 ---
 version: 1
 service:
-  name: YAML repo
+  name: YUML repo
   lifecycle:
-  tier:
+  tier: tier_2
   product:
   owner:
   system:
