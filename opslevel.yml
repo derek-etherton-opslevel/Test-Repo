@@ -1,11 +1,28 @@
 ---
 version: 1
 service:
-  name: Yabadaba
-  owner: team_d
-  language: javascript
+  name: Test Repo hehe
+  lifecycle:
+  tier:
+  product:
+  owner:
+  system:
+  language:
+  framework:
+  description:
   aliases:
-  - Test-Repo
+  tags:
+  repositories:
+  - name: derek-etherton-opslevel/Test-Repo
+    path: "/"
+    provider: github
+  tools:
+  dependencies:
+  alert_sources:
   properties:
-    s1: true
-    s2: Nice
+    a1:
+    a2:
+    b_w:
+    beginner_button_onclick_alert_2_click_me_button:
+    s1:
+    s2:
