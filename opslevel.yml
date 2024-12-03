@@ -1,8 +1,7 @@
 ---
 version: 1
-component:
+service:
   name: Yaml Service
-  type: app
   owner: team_d
   language: javascript
   aliases:
