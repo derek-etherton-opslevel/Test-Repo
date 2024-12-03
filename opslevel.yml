@@ -3,7 +3,7 @@ version: 1
 component:
   name: YUML repo
   lifecycle:
-  tier: tier_2
+  tier: tier_1
   type: app
   product:
   owner:
