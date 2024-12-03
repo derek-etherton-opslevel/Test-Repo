@@ -1,7 +1,0 @@
----
-version: 1
-service:
-  tier: tier_2
-  description: My default description
-  properties:
-    s1: false
