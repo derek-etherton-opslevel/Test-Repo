@@ -1,0 +1,7 @@
+---
+version: 1
+component:
+  tier: tier_2
+  description: My default description
+  properties:
+    s1: false
