@@ -2,7 +2,7 @@
 version: 1
 component:
   name: YAML App
-  type: app
+  type: service
   lifecycle:
   tier: tier_1
   product:
