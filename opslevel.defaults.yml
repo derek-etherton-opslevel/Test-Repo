@@ -1,5 +1,4 @@
 version: 1
-component:
-  type: app
+service:
   tier: tier_3
   description: yeeeeehoooooo
