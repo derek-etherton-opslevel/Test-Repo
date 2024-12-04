@@ -20,3 +20,6 @@ component:
   tools:
   dependencies:
   alert_sources:
+  properties:
+    s1: true
+    s2: test
