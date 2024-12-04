@@ -5,7 +5,7 @@ component:
   type: app
   lifecycle:
   tier: tier_1
-  product: nerds
+  product:
   owner:
   system:
   language:
