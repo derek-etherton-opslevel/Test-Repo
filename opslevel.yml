@@ -2,7 +2,7 @@
 version: 1
 component:
   name: YAML component
-  type: app
+  type: fake
   lifecycle:
   tier: tier_1
   product: nerds
