@@ -21,5 +21,5 @@ component:
   dependencies:
   alert_sources:
   properties:
-    a1: true
-    a2: test
+    s1: true
+    s2: test
