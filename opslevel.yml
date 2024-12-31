@@ -18,6 +18,9 @@ component:
     path: "/"
     provider: github
   tools:
+  - name: Playbook
+    category: runbooks
+    url: 
   dependencies:
   alert_sources:
   properties:
