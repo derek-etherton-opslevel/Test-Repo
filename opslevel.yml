@@ -2,7 +2,7 @@
 version: 1
 component:
   name: test repino
-  type: duck
+  type: service
   lifecycle:
   tier: tier_1
   product:
