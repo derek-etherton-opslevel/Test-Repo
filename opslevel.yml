@@ -20,5 +20,5 @@ component:
   tools:
   - name: Playbok
     category: runbooks
-    url: opslevel.localhost
+    url: http://opslevel.localhost
   properties:
