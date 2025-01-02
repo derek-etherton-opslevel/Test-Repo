@@ -20,9 +20,6 @@ component:
   tools:
   - name: Playbook
     category: runbooks
-    url: 
+    url: opslevel.localhost
   dependencies:
   alert_sources:
-  properties:
-    a1: true
-    a2: test
