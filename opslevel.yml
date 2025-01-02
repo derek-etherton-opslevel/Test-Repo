@@ -1,7 +1,7 @@
 ---
 version: 1
 component:
-  name: WAT
+  name: test repino
   type: app
   lifecycle:
   tier: tier_1
@@ -21,5 +21,3 @@ component:
   - name: Playbook
     category: runbooks
     url: opslevel.localhost
-  dependencies:
-  alert_sources:
