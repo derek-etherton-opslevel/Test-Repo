@@ -2,7 +2,7 @@
 version: 1
 component:
   name: WAT
-  type: app
+  type: duck
   lifecycle:
   tier: tier_1
   product:
