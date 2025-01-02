@@ -18,7 +18,7 @@ component:
     path: "/"
     provider: github
   tools:
-  - name: Playbook
+  - name: Playbok
     category: runbooks
     url: opslevel.localhost
   properties:
