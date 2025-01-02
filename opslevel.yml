@@ -21,3 +21,4 @@ component:
   - name: Playbook
     category: runbooks
     url: opslevel.localhost
+  properties:
