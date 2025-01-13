@@ -1,8 +1,8 @@
 ---
 version: 1
 component:
-  name: test repino
-  type: mobile_app
+  name: test repooo
+  type: service
   lifecycle:
   tier: tier_1
   product:
