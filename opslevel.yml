@@ -2,7 +2,7 @@
 version: 1
 component:
   name: test repooo
-  type: service
+  type: app
   lifecycle:
   tier: tier_1
   product:
