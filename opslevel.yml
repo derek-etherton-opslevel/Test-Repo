@@ -2,9 +2,9 @@
 version: 1
 component:
   name: test repooo
-  type: app
+  type: service
   lifecycle:
-  tier: tier_1
+  tier: tier_10
   product:
   owner:
   system:
