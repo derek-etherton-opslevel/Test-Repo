@@ -2,7 +2,7 @@
 version: 1
 component:
   name: test repooo
-  type: app
+  type: duck
   lifecycle:
   tier: tier_10
   product:
