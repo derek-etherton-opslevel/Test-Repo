@@ -6,7 +6,7 @@ component:
   lifecycle:
   tier: tier_10
   product:
-  owner:
+  owner: fake
   system:
   language:
   framework:
