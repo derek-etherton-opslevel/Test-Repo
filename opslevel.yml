@@ -6,7 +6,7 @@ component:
   lifecycle:
   tier: tier_10
   product:
-  owner: fake
+  owner: team_az
   system:
   language:
   framework:
