@@ -2,7 +2,7 @@
 version: 1
 component:
   name: Testerino
-  type: app
+  type: duck
   lifecycle:
   tier: tier_10
   product:
@@ -22,3 +22,4 @@ component:
     category: runbooks
     url: http://opslevel.localhost
   properties:
+  
