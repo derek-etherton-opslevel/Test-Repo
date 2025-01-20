@@ -23,4 +23,4 @@ component:
     url: http://opslevel.localhost
   properties:
     keep_me: false
-    s1: true
+    net_new: "YEEHAW"
