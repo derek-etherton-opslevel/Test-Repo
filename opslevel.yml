@@ -1,8 +1,8 @@
 ---
 version: 1
 component:
-  name: test repooo
-  type: duck
+  name: Testerino
+  type: app
   lifecycle:
   tier: tier_10
   product:
