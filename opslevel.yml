@@ -2,7 +2,7 @@
 version: 1
 component:
   name: Testerino
-  type: duck
+  type: service
   lifecycle:
   tier: tier_10
   product:
