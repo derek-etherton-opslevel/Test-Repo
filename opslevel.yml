@@ -22,3 +22,4 @@ component:
     category: runbooks
     url: http://opslevel.localhost
   properties:
+    s1: false
