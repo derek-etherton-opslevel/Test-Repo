@@ -2,7 +2,7 @@
 version: 1
 component:
   name: Testerino
-  type: app
+  type: service
   lifecycle:
   tier: tier_10
   product:
