@@ -8,8 +8,8 @@ component:
   product:
   owner: team_az
   system:
-  language:
-  framework:
+  language: ruby
+  framework: rails:7.2.0
   description:
   aliases:
   tags:
