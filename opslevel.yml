@@ -3,16 +3,23 @@ version: 1
 component:
   name: Testerino
   type: service
-  lifecycle:
+  lifecycle: production
   tier: tier_10
   product:
   owner: team_az
   system:
-  language:
-  framework:
-  description:
+  language: javascript
+  framework: serverless
+  description: Sample REST API service providing user management endpoints with Swagger documentation
   aliases:
+    - test-repo
+    - testerino-api
   tags:
+    - api
+    - rest
+    - serverless
+    - swagger
+    - users
   repositories:
   - name: derek-etherton-opslevel/Test-Repo
     path: "/"
@@ -21,5 +28,23 @@ component:
   - name: Playbok
     category: runbooks
     url: http://opslevel.localhost
+  - name: API Documentation
+    category: documentation
+    url: https://github.com/derek-etherton-opslevel/Test-Repo/blob/main/swagger.yml
+  - name: PagerDuty
+    category: incident_response
+    url: https://opslevel.pagerduty.com
+  - name: Slack Channel
+    category: communication
+    url: https://opslevel.slack.com/channels/team-az
+  dependencies:
+    - name: user-database
+      description: Primary database for user data storage
+    - name: authentication-service
+      description: Handles user authentication and authorization
   properties:
     s1: false
+    sla_tier: standard
+    data_classification: internal
+    backup_enabled: true
+    monitoring_enabled: true
