@@ -9,7 +9,7 @@ component:
   owner: team_az
   system:
   language:
-  framework:
+  framework: vue_v_3
   description:
   aliases:
   tags:
